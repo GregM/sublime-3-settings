@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"CSScomb",
+		"Gist",
+		"Git",
+		"Handlebars",
+		"HTML5",
+		"HtmlTidy",
+		"JSHint",
+		"LESS",
+		"Package Control",
+		"Play 2.0",
+		"Rake",
+		"SCSS",
+		"Shrink Whitespaces",
+		"TrailingSpaces",
+		"Web Inspector"
+	]
+}
