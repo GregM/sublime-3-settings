@@ -1,6 +1,3 @@
 {
-    "extensions":
-    [
-        "sbt"
-    ]
+    "extensions": [ "sbt" ]
 }
