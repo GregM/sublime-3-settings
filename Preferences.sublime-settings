@@ -40,7 +40,7 @@
     "rulers": [],
 
     // Set to true to turn spell checking on by default
-    "spell_check": false,
+    "spell_check": true,
 
     // The number of spaces a tab is considered equal to
     "tab_size": 4,
