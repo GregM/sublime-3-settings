@@ -16,6 +16,7 @@
 		"SCSS",
 		"Shrink Whitespaces",
 		"TrailingSpaces",
-		"Web Inspector"
+		"Web Inspector",
+		"WordCount"
 	]
 }
